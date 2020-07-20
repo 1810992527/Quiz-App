@@ -1,2 +1,2 @@
 # Quiz-App
-Quix App using html,css and javascript
+Quiz App using html,css and javascript
